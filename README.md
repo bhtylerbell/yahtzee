@@ -35,7 +35,7 @@ A modern, single-player Yahtzee game built with Next.js 16, React 19, TypeScript
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/bhtylerbell/yahtzee.git
 cd yahtzee
 ```
 
